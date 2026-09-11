@@ -2,7 +2,6 @@
 
 > A curated and organized collection of resources related to **bug-bounty**.
 
-**Maintained by [Humayun Shariar Himu](https://github.com/HumayunShariarHimu)**
 
 # Bug Bounty
 
