@@ -29,12 +29,19 @@ Based in Bangladesh
 
 > A curated and organized collection of resources related to **bug-bounty**.
 
+**Humayun Shariar Himu**  
+A Passionated Psychologist & Tech Lover!  
+Based in Bangladesh  
+[GitHub Profile](https://github.com/HumayunShariarHimu)
+
+# bug-bounty
+
+> A curated and organized collection of resources related to **bug-bounty**.
+
 **Maintained by [Humayun Shariar Himu](https://github.com/HumayunShariarHimu)**
 
 # Bug Bounty
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UClhKVCHjOxBTNM50lOBTgoA)
-![Discord](https://img.shields.io/discord/1163365511309049948)
 ![Made with Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
